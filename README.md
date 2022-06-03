@@ -1,11 +1,7 @@
 ### Hi there, my name is Alisson Matias
 ### Olá, meu nome é Alisson Matias
 
-
 - 🔭 I’m currently working on <a href="https://titanci.com.br/">TITAN</a> as trainee
-- 🌱 I’m currently learning Python, Javascript, HTML, CSS
-- 😄 Pronouns: he/him
-- 🇧🇷 Country: i'm currently living in Brazil
 
 <div align="center">
   <a href="https://github.com/Alissonmds00">
