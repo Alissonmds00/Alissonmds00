@@ -4,12 +4,12 @@
 -  👔 Atualmente trabalho na <a href="https://titanci.com.br/">TITAN</a> como trainee<br>
 -  🎓 Graduando em Engenharia da Computação em <a href="https://www.ufba.br">UFBA</a><br>
 -  🌎🇧🇷<br>
-
+<h2> </h2>
 <h2>Linguagens utilizadas</h2>
 <div align="center">
   <a href="https://github.com/Alissonmds00">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Alissonmds00&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alissonmds00&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alissonmds00&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alissonmds00&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
   <div style="display: inline_block"><br>
