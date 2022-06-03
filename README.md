@@ -1,10 +1,10 @@
-##<h1>Hi there, my name is Alisson Matias</h1>
+<h1>Hi there, my name is Alisson Matias</h1>
 
-##<h2>Sobre mim</h2>
-
+<h2>Sobre mim</h2>
 -  👔 Atualmente trabalho na <a href="https://titanci.com.br/">TITAN</a> como trainee
 -  🎓 Graduando em Engenharia da Computação em <a href="https://www.ufba.br">UFBA</a>
--  🌎🇧🇷  
+-  🌎🇧🇷
+###  
 
 <div align="center">
   <a href="https://github.com/Alissonmds00">
