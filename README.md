@@ -1,5 +1,4 @@
 ### Hi there, my name is Alisson Matias
-### Olá, meu nome é Alisson Matias
 
 - 🔭 I’m currently working on <a href="https://titanci.com.br/">TITAN</a> as trainee
 
