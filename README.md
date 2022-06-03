@@ -2,7 +2,7 @@
 ### Olá, meu nome é Alisson Matias
 
 
-- 🔭 I’m currently working on <a href="https://titanci.com.br/" target:"_blank">TITAN</a> as trainee
+- 🔭 I’m currently working on <a href="https://titanci.com.br/">TITAN</a> as trainee
 - 🌱 I’m currently learning Python, Javascript, HTML, CSS
 - 😄 Pronouns: he/him
 - :brazil: Country: i'm currently living in Brazil
