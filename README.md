@@ -1,8 +1,8 @@
 <h1>Hi there, my name is Alisson Matias</h1>
 
 <h2>Sobre mim</h2>
--  👔 Atualmente faço parte da <a href="https://titanci.com.br/">TITAN</a> como trainee<br>
--  🎓 Graduando em Engenharia da Computação em <a href="https://www.ufba.br">UFBA</a><br>
+-  👔 Atualmente faço parte da <a href="https://titanci.com.br/">TITAN</a> - Empresa Junior de Engenharia da Computação da UFBA <br>
+-  🎓 Graduando em Engenharia da Computação na <a href="https://www.ufba.br">UFBA</a> - Universidade Federal da Bahia <br>
 -  🌎🇧🇷
 <h3> </h3>
 <h2>Linguagens utilizadas</h2>
