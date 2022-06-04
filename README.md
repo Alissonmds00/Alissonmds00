@@ -1,4 +1,4 @@
-<h1>Hi there, my name is Alisson Matias</h1>
+<h1>Olá, meu nome é Alisson Matias</h1>
 
 <h2>Sobre mim</h2>
 -  👔 Atualmente faço parte da <a href="https://titanci.com.br/">TITAN</a> - Empresa Junior de Engenharia da Computação da UFBA <br>
