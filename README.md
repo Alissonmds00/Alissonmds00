@@ -8,7 +8,7 @@
 <h2>Linguagens utilizadas</h2>
 <div align="center">
   <a href="https://github.com/Alissonmds00">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Alissonmds00&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <!-- <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Alissonmds00&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alissonmds00&layout=compact&langs_count=8&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
