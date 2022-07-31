@@ -5,7 +5,7 @@
 -  🎓 Graduando em Engenharia da Computação na <a href="https://www.ufba.br">UFBA</a> - Universidade Federal da Bahia <br>
 -  🌎🇧🇷
 <h3> </h3>
-<h2>Linguagens utilizadas</h2>
+<h2>Linguagens</h2>
 <div align="left">
   <a href="https://github.com/Alissonmds00">
   <!-- <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Alissonmds00&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
