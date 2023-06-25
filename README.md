@@ -2,7 +2,7 @@
 
 <h2>Sobre mim</h2>
 -  👔 Atualmente faço parte da <a href="https://titanci.com.br/">TITAN</a> - Empresa Junior de Engenharia da Computação da UFBA <br>
--  🎓 Graduando em Engenharia da Computação na <a href="https://www.ufba.br">UFBA</a> - Universidade Federal da Bahia <br>
+-  🎓 Graduando em Sistemas de Informação na <a href="https://www.ufba.br">UFBA</a> - Universidade Federal da Bahia <br>
 -  🌎🇧🇷
 <h3> </h3>
 <h2>Linguagens</h2>
