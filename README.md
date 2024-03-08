@@ -2,6 +2,7 @@
 
 <h2>Sobre mim</h2>
 -  🎓 Graduando em Sistemas de Informação na <a href="https://www.ufba.br">UFBA</a> - Universidade Federal da Bahia <br>
+- Linkedin: <a href="www.linkedin.com/in/alisson-matias" target="_blank">Alisson Matias</a> <br>
 -  🌎🇧🇷
 <h3> </h3>
 <h2>Linguagens</h2>
