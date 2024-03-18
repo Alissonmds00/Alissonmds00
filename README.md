@@ -1,8 +1,8 @@
 <h1>Olá, meu nome é Alisson Matias</h1>
 
 <h2>Sobre mim</h2>
--  🎓 Graduando em Sistemas de Informação na <a href="https://www.ufba.br" target="_blank">UFBA</a> - Universidade Federal da Bahia <br>
--  🕴 Linkedin: <a href="https://www.linkedin.com/in/alisson-matias" target="_blank">Alisson Matias</a> <br>
+-  🎓 Graduando em Sistemas de Informação na <a href="https://www.ufba.br" target="_blank" style="text-decoration:none">UFBA</a> - Universidade Federal da Bahia <br>
+-  🕴 Linkedin: <a href="https://www.linkedin.com/in/alisson-matias" target="_blank" style="text-decoration:none">Alisson Matias</a> <br>
 -  🌎🇧🇷
 <h3> </h3>
 <h2>Linguagens</h2>
