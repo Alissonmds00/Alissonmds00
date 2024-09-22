@@ -2,8 +2,8 @@
 
 <h2>Sobre mim</h2>
   <h3>Atualmente sou um desenvolvedor júnior backend, focado em desenvolvimento de APIs Rest, mas com interesse e conhecimento no front end também.</h3> 
-  -  🎓 Graduando em Sistemas de Informação na <a href="https://www.ufba.br" target="_blank" style="text-decoration: none; color: inherit">UFBA</a> - Universidade Federal da Bahia <br>
-  -  🕴 Linkedin: <a href="https://www.linkedin.com/in/alisson-matias" target="_blank" style="text-decoration: none; color: inherit">Alisson Matias</a> <br>
+  -  🎓 Graduando em Sistemas de Informação na <a href="https://www.ufba.br" target="_blank" style="text-decoration: none; color: inherit;">UFBA</a> - Universidade Federal da Bahia<br>
+  -  🕴 Linkedin: <a href="https://www.linkedin.com/in/alisson-matias" target="_blank" style="text-decoration: none; color: inherit;">Alisson Matias</a><br>
   -  🌎🇧🇷
 <h2>Linguagens</h2>
   <div align="left">
